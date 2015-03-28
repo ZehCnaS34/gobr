@@ -22,3 +22,7 @@ _testmain.go
 *.exe
 *.test
 *.prof
+/.main.go.~undo-tree~
+/gobr
+/main.go~
+/tmp/
